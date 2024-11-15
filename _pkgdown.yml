@@ -1,4 +1,5 @@
-url: ~
+url: https://ayanu.github.io/Rdummy/
 template:
   bootstrap: 5
+  bootswatch: cerulean
 
